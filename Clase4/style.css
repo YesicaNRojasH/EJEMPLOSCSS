@@ -1,0 +1,22 @@
+a{
+    color: rgb(182, 105, 5);
+}
+
+#primero>p{
+    color: dodgerblue;
+}
+
+#primero em{
+background-color: rgb(230, 238, 117);
+color: rgb(10, 39, 71);
+}
+.normal>p{
+color: rgb(31, 29, 29);
+}
+.normal .especial{
+    background-color: black;
+    color: rgb(149, 172, 49);
+}
+.normal span{
+    font-weight: bold;
+}
